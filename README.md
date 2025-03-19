@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, jQuery, MySQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, jQuery, MySQL, React js, Node js, Tailwind CSS, Bootstrap, MongoDB**
 
 - 📫 How to reach me **rakrishna16@gmail.com**
 
